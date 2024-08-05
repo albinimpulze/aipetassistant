@@ -25,3 +25,22 @@ gTTS
 glob2
 requests
 opencv-python
+
+
+Running the Application
+Ensure you have Python installed (preferably Python 3.7 or higher).
+Clone this repository or download the code files.
+Navigate to the project directory in your terminal.
+Install the required packages using the command mentioned above.
+Run the Streamlit application with the following command:
+bash
+Download
+Copy code
+streamlit run app.py
+Replace app.py with the name of your main Python file if it's different.
+
+Usage
+Open your web browser and go to http://localhost:8501.
+Enter a prompt for image generation in the input box.
+Click the "Start Listening" button to speak your input.
+The application will generate a response, convert it to speech, and create a talking avatar video.
