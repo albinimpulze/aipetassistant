@@ -25,7 +25,7 @@ gTTS
 glob2
 requests
 opencv-python
-
+```
 
 Running the Application
 Ensure you have Python installed (preferably Python 3.7 or higher).
