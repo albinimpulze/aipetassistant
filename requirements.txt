@@ -1,0 +1,12 @@
+streamlit
+numpy
+Pillow
+moviepy
+phidata
+python-dotenv
+SpeechRecognition
+gTTS
+tempfile
+glob2
+requests
+opencv-python
